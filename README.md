@@ -1,5 +1,5 @@
-# List of hacking ctf's
-Here's a updated list of new ongoing ctf challenges. Feel free for adding some sites!
+# List of hacking wargames
+Here's a updated list of new ongoing wargames. Feel free for adding some sites!
 
 ## Available online
 
@@ -13,7 +13,6 @@ Here's a updated list of new ongoing ctf challenges. Feel free for adding some s
 + [CTFlearn](http://ctflearn.com/) (user-contributed challenges)
 + [Hacking-lab](https://www.hacking-lab.com/index.html)
 + [Enigma-Group](https://www.enigmagroup.org/)
-
 **WebApp Specific:**
 + [Pentesterlab](https://pentesterlab.com/)
 
