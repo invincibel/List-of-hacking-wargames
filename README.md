@@ -13,6 +13,10 @@ Here's a updated list of new ongoing wargames. Feel free for adding some sites!
 + [CTFlearn](http://ctflearn.com/) (user-contributed challenges)
 + [Hacking-lab](https://www.hacking-lab.com/index.html)
 + [Enigma-Group](https://www.enigmagroup.org/)
++ [0xf.at](https://www.0xf.at/)
++ [CTF365](https://ctf365.com/)
++ [HackThis!!](https://www.hackthis.co.uk/)
+
 
 **WebApp Specific:**
 + [Pentesterlab](https://pentesterlab.com/)
@@ -27,9 +31,14 @@ Here's a updated list of new ongoing wargames. Feel free for adding some sites!
 
 ## Offline
 
++ [Vulnhub](https://www.vulnhub.com/)
 + [Damn Vulnerable Web Application - DVWA](http://www.dvwa.co.uk/)
 + [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/)
 + [Exploit Exercise](https://exploit-exercises.com/)
 + [WebGoat](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)
 
-## Gone
+## Other CTF / wargame list's
+
++ [ashot.org](https://www.ashot.org/links.php)
++ [Hacktheflag](http://www.hacktheflag.org/)
+
