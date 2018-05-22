@@ -16,7 +16,7 @@ Here's a updated list of new ongoing wargames. Feel free for adding some sites!
 + [0xf.at](https://www.0xf.at/)
 + [CTF365](https://ctf365.com/)
 + [HackThis!!](https://www.hackthis.co.uk/)
-
++ [HackTheBox](https://www.hackthebox.eu/)
 
 **WebApp Specific:**
 + [Pentesterlab](https://pentesterlab.com/)
@@ -41,4 +41,4 @@ Here's a updated list of new ongoing wargames. Feel free for adding some sites!
 
 + [ashot.org](https://www.ashot.org/links.php)
 + [Hacktheflag](http://www.hacktheflag.org/)
-
++ [captf](http://captf.com/practice-ctf/)
