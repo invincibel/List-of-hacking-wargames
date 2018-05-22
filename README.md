@@ -17,6 +17,7 @@ Here's a updated list of new ongoing wargames. Feel free for adding some sites!
 + [CTF365](https://ctf365.com/)
 + [HackThis!!](https://www.hackthis.co.uk/)
 + [HackTheBox](https://www.hackthebox.eu/)
++ [ctfs.me](https://ctfs.me/)
 
 **WebApp Specific:**
 + [Pentesterlab](https://pentesterlab.com/)
