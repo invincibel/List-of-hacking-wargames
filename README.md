@@ -34,7 +34,7 @@ Here's a updated list of new ongoing wargames. Feel free for adding some sites!
 
 + [Vulnhub](https://www.vulnhub.com/)
 + [Damn Vulnerable Web Application - DVWA](http://www.dvwa.co.uk/)
-+ [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/)
++ [Web Application Exploits and Defenses - Google gruyere](https://google-gruyere.appspot.com/)
 + [Exploit Exercise](https://exploit-exercises.com/)
 + [WebGoat](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)
 
