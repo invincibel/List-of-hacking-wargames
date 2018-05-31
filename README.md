@@ -18,7 +18,7 @@ Here's a updated list of new ongoing wargames. Feel free for adding some sites!
 + [HackThis!!](https://www.hackthis.co.uk/)
 + [ctfs.me](https://ctfs.me/)
 + [Backdoor](https://backdoor.sdslabs.co/)
-
++ [HackThisSite](https://hackthissite.org/)
 **WebApp Specific:**
 + [Pentesterlab](https://pentesterlab.com/)
 
